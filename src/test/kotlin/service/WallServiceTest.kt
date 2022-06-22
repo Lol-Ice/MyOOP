@@ -54,7 +54,7 @@ class WallServiceTest {
             true, true, true, true, true, 1
         )
         val result = posts.historyPost(historyPost)
-        assertNotEquals("Нет истории", result)
+        assertNotEquals("10", result)
     }
 
 
