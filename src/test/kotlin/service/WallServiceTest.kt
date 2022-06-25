@@ -6,7 +6,6 @@ import data.service.service.WallService
 import data.*
 
 class WallServiceTest {
-
     @Test
     fun addTest() {
         val posts = WallService

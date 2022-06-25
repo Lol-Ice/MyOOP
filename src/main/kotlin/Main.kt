@@ -13,6 +13,6 @@ fun main() {
         )
     )
 
-    print(post1.id)
+    print(post1)
 
 }
