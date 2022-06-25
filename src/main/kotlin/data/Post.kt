@@ -28,3 +28,4 @@ data class Post(
     val is_favorite: Boolean,
     val postponed_id: Int
 )
+

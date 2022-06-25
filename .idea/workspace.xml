@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d9e6bc-9045-4286-b43a-dc4dccfd608e" name="Changes" comment="11 commit" />
+    <list default="true" id="25d9e6bc-9045-4286-b43a-dc4dccfd608e" name="Changes" comment="1.2 commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/data/Post.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/data/Post.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/service/wallServis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/service/wallServis.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/service/WallServiceTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/service/WallServiceTest.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +72,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Attach" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -154,10 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MyOOP [test]" />
-        <item itemvalue="Gradle.WallServiceTest (1)" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Gradle.WallServiceTest (1)" />
+        <item itemvalue="Gradle.MyOOP [test]" />
+        <item itemvalue="Gradle.MyOOP [test]" />
       </list>
     </recent_temporary>
   </component>
