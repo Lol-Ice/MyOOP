@@ -12,6 +12,7 @@ object WallService {
         posts += post
         return posts.last()
     }
+
     fun update(post: Post): Boolean {
         for ((index, originalPost) in posts.withIndex()) {
             if (originalPost.id == post.id) {
@@ -21,6 +22,7 @@ object WallService {
         }
         return false
     }
+
     fun historyPost(post: Post?) {
 
         println(post?.copy_history ?: "Нет истории")
